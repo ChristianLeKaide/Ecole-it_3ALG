@@ -1,0 +1,8 @@
+
+//ALGORITHME DU FACTORIELLE RECURSIF
+FACTORIELLE(n)
+    SI n==0 Alors
+        resultat==1
+    SINON
+        resultat= n*FACTORIELLE(n-1)
+    FINSI
